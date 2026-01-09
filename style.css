@@ -72,9 +72,7 @@ nav .btn{
     padding: 0;
     
 }
-#banner .banner-container .banner-content{
-    
-}
+
 .btn1 {
     background-color: #FFFFFF;
     border: none;
@@ -244,7 +242,7 @@ nav .btn{
     width: 1360px;
     height: 600px;
     max-width: 1360px;
-    gap: ;
+    
 
     
     margin: 120px;
@@ -255,10 +253,7 @@ nav .btn{
     height: 600px;
 
  }
- #brain .brain-set{
-    
 
- }
  .brain-set{
     width: 700px;
     height: 444px;
@@ -355,9 +350,7 @@ nav .btn{
     /* padding: 120px 0 0 120px; */
     color: #469165;
 }
-.footer-content .scl{
 
-}
 .footer-content .scl p{
     font-size: 20px;
     font-weight: 500;
