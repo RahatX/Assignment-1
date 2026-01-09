@@ -166,17 +166,23 @@ nav .btn{
  }
  #notes .notes-container{
     width: 1360px;
-    /* height: 152px; */
-    /* max-width: 1360px;
-    max-height: 152; */
+    /* height: 152px;
+    max-width: 1360px;
+    max-height: 152;
     margin: 0 auto;
-    /* text-align: center; */
+    text-align: center; */
     
+ }
+ #notes .notes-container .notes-header{
+    
+    text-align: center;
+    
+    padding: 0px 0px 0px 200px;
  }
  #notes .notes-container h2{
     font-size: 48px;
     font-weight:700;
-    /* text-align: center; */
+    text-align: center;
     color: #001931;
     padding-top: 50px;
  }
@@ -192,7 +198,8 @@ nav .btn{
     /* align-items: center; */
     padding: 44px 120px 0;
     gap: 24px;
-    /* width: 1360px; */
+    width: 1360px;
+    
  }
  .notes-card .card{
     border: 1px solid #FFFFFF;
@@ -200,8 +207,8 @@ nav .btn{
     border-radius: 8px;
     width: 322px;
     max-width: 322px;
-    /* height: 300px;
-    max-height: 300px; */
+    height:300px;
+    max-height: 300px;
 
  }
  .notes-card .card img{
