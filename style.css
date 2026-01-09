@@ -151,7 +151,7 @@ nav .btn{
     margin-left: 16px;
     background-color: transparent;
  }
- button:hover{
+ button, i:hover{
     cursor: pointer;
  }
 
